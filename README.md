@@ -19,7 +19,7 @@ The project allows you to upload a `.txt` file and ask questions based on its co
 
 ## 📂 Project Files
 
-embed_to_chroma.py # Converts TXT file into embeddings
-query_chroma.py # Searches similar content from ChromaDB
-rag_chat.py # Chat-based Q&A using RAG
+embed_to_chroma.py # Converts TXT file into embeddings  
+query_chroma.py # Searches similar content from ChromaDB  
+rag_chat.py # Chat-based Q&A using RAG  
 chroma_db/ # Vector database (ignored in Git)
